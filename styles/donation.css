@@ -13,7 +13,6 @@
     font-weight: 700px;
     font-size: 65px;
     padding-top: 200px;
-
 }
 
 .font-size {
@@ -117,42 +116,220 @@ li {
     color: #707070;
     margin-top: 15px;
     font-weight: 400;
-font-size: 18px;
-margin-bottom: 30px;
+    font-size: 18px;
+    margin-bottom: 30px;
 }
 
-.donate-content{
+.donate-content {
     display: flex;
     gap: 24px;
     margin-left: 500px;
     margin-right: 500px;
     justify-content: center;
-  
+
 }
-.first-back{
+
+.first-back {
     background: rgba(79, 157, 166, 0.797);
-border-radius: 5px;
-padding-left:20px ;
-padding-right: 30px;
-padding-bottom: 60px;
-padding-top: 50px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    padding-top: 50px;
 
 
 }
-.second-back{
+
+.second-back {
     background: rgba(255, 89, 89, 0.678);
-border-radius: 5px;
-padding-left:20px ;
-padding-right: 30px;
-padding-top: 50px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 50px;
 }
-.third-back{
+
+.third-back {
     background: #e1c097db;
     border-radius: 5px;
-    padding-left:20px ;
-padding-right: 30px;
-padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 50px;
 }
-.donate-title{
+
+.donate-title {
     padding-top: 10px;
+}
+
+.description {
+    color: #707070;
+}
+
+.album {
+    margin-left: 500px;
+    margin-top: 100px;
+    padding-right: 500px;
+    display: flex;
+
+
+}
+
+.album-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 5px;
+}
+
+.album-deco {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+#last-pic {
+    display: flex;
+
+    height: 450px;
+    width: 456px;
+    margin-bottom: 100px;
+
+
+}
+
+.ok {
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.main {
+    display: flex;
+}
+
+#done {
+    height: 450px;
+    width: 456px;
+    margin-left: 500px;
+}
+
+.last-album-deco {
+    padding-left: 50px;
+    margin-top: 15px;
+    color: #707070;
+}
+
+.last-album-title {
+    padding-left: 50px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+}
+
+.button-last {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 10px 20px;
+    height: 64px;
+    border-radius: 5px;
+    background: #ff5959;
+}
+
+.setting {
+    margin-top: 40px;
+
+}
+
+.finished {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.done-work {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 10px 20px;
+    height: 64px;
+    border-radius: 5px;
+    background: #ff5959;
+}
+
+.total {
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 100px;
+}
+
+.shit {
+    margin-bottom: 30px;
+}
+
+.total-one {
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin: 0px 700px;
+
+}
+
+.us {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.sub-title {
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    color: #FFFFFF;
+    padding: 5px 18px 5px 18px;
+    border: none
+}
+
+.us {
+    height: 150px;
+    width: 600px;
+    background-color: #FFF4D6;
+    margin: 20px auto;
+    margin-top: 50px;
+    display: block;
+
+}
+
+.back {
+
+    padding-top: 60px;
+}
+
+.size {
+    padding: 2px 18px 2px 18px;
+}
+
+.dark-box {
+    height: 150px;
+    background-color: #0B0D17;
+    margin: 20px auto;
+    margin-top: 100px;
+    display: block;
+}
+
+.dark-box-one {
+    text-align: center;
+    padding-top: 30px;
+    color: #FF5959;
+    font-weight: 400;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.dark-box-two {
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    color: #D9DBE1;
+    padding-top: 30px;
+
 }
